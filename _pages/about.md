@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Computing 1</p>
+    <p>13 Computing Drive</p>
+    <p>Singapore 117417</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
@@ -19,8 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Computer Science PhD candidate at the National University of Singapore, where my research is supervised by Assistant Professor [Djordje Jevdjic](https://www.comp.nus.edu.sg/~jevdjic) and Associate Professor [Weng-Fai Wong](https://www.comp.nus.edu.sg/~wongwf/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research focuses on figuring out how to store data in DNA. There's way too much data being generated every day, and we are quickly running out of space to store it. DNA has been proposed as both a very desirable and very cool solution! My work is very interdisciplinary and brings together Computer Systems, Algorithms, Machine Learning and Computational Biology.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of my research, I am very passionate about [movies](https://letterboxd.com/prongs17/), [games](https://steamcommunity.com/id/prongs17/) and sports (EPL, NFL, NBA).
