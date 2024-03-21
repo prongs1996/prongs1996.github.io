@@ -1,8 +1,16 @@
 ---
 layout: post
-date: 2024-03-01 22:00:00-0400
-inline: true
+title: I have proposed two projects for the undergraduate summer research program at School of Computing, NUS.
+date: 2024-01-19 16:11:00-0400
+inline: false
 related_posts: false
 ---
 
-Our work "DNA Storage Toolkit: A Modular End-to-End DNA Data Storage Codec and Simulator" was accepted at ISPASS'24, set to be held in Indianapolis, Indiana, USA on May 5-7, 2024.
+I have proposed two projects for the undergraduate summer research program at SoC @ NUS. Note that this is only available for undergrads at NUS.
+
+---
+
+If you are at NUS over the summer and are interested in working with me one DNA storage, please join one of my two proposed projects.
+[Proposal 1](/assets/pdf/Puru_ClusteringDNAStrandsForDNA-basedDataStorage.pdf) tackles the clustering problem in DNA storage, [Proposal 2](/assets/pdf/Puru_ReconstructingDNAStrandsForDNA-basedDataStorage.pdf) tackles the trace reconstruction problem.
+
+Update 1/3/2024: We have only 1 opening left on each of our clustering and reconstruction projects.
