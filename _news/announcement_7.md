@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-01-09 22:00:00-0400
+date: 2024-12-24 22:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Was honored to learn that I have received the Research Achievement Award from NUS! (Semester 1, AY2024/2025)
+Good news on Christmas Eve! In a way that can only be described as "somehow," I’ve managed to pass the Qualifying Examination for my PhD at NUS!
