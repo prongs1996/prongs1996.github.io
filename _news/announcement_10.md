@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-In the past year, I have absolutely loved teaching at NUS and so am very happy to learn that I have been awarded the Teaching Fellowship from the School of Computing @ NUS! (AY2025/2026)
+I have absolutely loved teaching at NUS this past year, and so am very happy to learn that I have been awarded the Teaching Fellowship from the School of Computing @ NUS! (AY2025/2026)
