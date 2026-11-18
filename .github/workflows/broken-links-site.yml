@@ -32,6 +32,16 @@ jobs:
               "giscus.repo": "${{ github.repository }}",
               "baseurl": ""
             }
+      
+      - name: Install ImageMagick
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+          if ! command -v convert >/dev/null 2>&1; then
+            sudo ln -s "$(command -v magick)" /usr/local/bin/convert
+          fi
+          convert -version
+
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade jupyter
