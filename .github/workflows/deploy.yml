@@ -31,7 +31,6 @@ jobs:
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
 
-      
       - name: Install ImageMagick
         run: |
           sudo apt-get update

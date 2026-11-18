@@ -32,7 +32,7 @@ jobs:
               "giscus.repo": "${{ github.repository }}",
               "baseurl": ""
             }
-      
+
       - name: Install ImageMagick
         run: |
           sudo apt-get update
